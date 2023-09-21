@@ -105,5 +105,6 @@ for (let j = 0; j <= 10 ; j++){
     document.write(+tabla +" x " +j+ "=" + tabla * j +"<br>");
 }
 
+/* estoy probando nomas */
 
 
