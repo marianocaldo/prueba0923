@@ -1,4 +1,4 @@
-/* declaro variables */
+/* declaro variables    esto lo modifique en linea en github*/
 
 var nombre = "Pedro";
 
